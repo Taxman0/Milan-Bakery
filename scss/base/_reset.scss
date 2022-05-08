@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    /* The image used */
+    background-image:url(fondo_pantalla.jpeg);
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer{
+    background-color:rgba($color: white, $alpha: 0.5)
+}
+
